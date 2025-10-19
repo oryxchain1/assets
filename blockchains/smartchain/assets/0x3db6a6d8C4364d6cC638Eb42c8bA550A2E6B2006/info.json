@@ -1,0 +1,13 @@
+{
+  "name": "ORYXG Gold",
+  "symbol": "ORYXG",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "ORYXG Gold (ORYXG) is a BEP-20 token built on the BNB Smart Chain that combines the stability of gold-backed value with the transparency and speed of blockchain technology.",
+  "website": "https://oryxchain.com",
+  "explorer": "https://bscscan.com/token/0x3db6a6d8C4364d6cC638Eb42c8bA550A2E6B2006",
+  "status": "active",
+  "id": "0x3db6a6d8C4364d6cC638Eb42c8bA550A2E6B2006",
+  "logo": "https://raw.githubusercontent.com/oryxchain1/assets/6a01f010d30761784185eac44f7d967073af7d7b/ORYXG%20Logo%20(1).png",
+  "tags": ["defi", "gold", "store-of-value"]
+}
